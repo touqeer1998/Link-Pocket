@@ -65,4 +65,7 @@ dependencies {
 
     //room dependencies
     implementation(libs.androidx.room.ktx)
+
+    // addMob dependencies
+    implementation(libs.google.mobile.ads)
 }
